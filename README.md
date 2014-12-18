@@ -19,9 +19,9 @@ Fell free to access to [my portofolio](http://www.galerie-xc/leane/albums).
 - 24/7 support
 
 ### Why choose us
-1.Price
-2.Precision
-3.Perf
+1. Price
+2. Precision
+3. Perf
 
 This how rode code looks like `puts 'hello world'``
 
