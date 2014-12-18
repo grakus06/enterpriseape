@@ -15,8 +15,8 @@ Fell free to access to [my portofolio](http://www.galerie-xc/leane/albums).
 >
 ### Crazy good software
 * rapid development
-+tested
--24/7 support
++ tested
+- 24/7 support
 
 ### Why choose us
 1.Price
